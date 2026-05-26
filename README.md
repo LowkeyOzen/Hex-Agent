@@ -52,3 +52,15 @@ Au premier tour, le 2ème joueur a la possibilité, au lieu de placer une pièce
 
 Pour joueur humain:
 Pour placer une pièce, il suffit de double-cliquer sur la case correspondante du plateau
+
+## References
+
+Ce papier a été une source pour un test de différentes heuristiques
+
+https://webdocs.cs.ualberta.ca/~hayward/papers/yang8.pdf
+
+## Agents 
+
+Le my_player.py est l'agent final. 
+
+Dans le dossier agents, Mctx est un test d'implementation de Monte Carlo Tree search et les autres sont les premiers tests avec la base du minimax. 
